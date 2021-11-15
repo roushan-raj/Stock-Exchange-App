@@ -1,0 +1,9 @@
+=================== Port Numbers for services=================
+
+Api-gateway          - 8080
+Company-service      - 8084
+config-service       - 8090
+Eureka-service       - 8761
+Excel-service        - 8085
+Exchange-service     - 8082
+Sector-service       - 8083
